@@ -1,4 +1,4 @@
-# 당신의 꿈을 현실로, "Pinit"!
+# 당신의 꿈을 현실로, "[Pinit](https://pinit.go-gradually.me)"!
 
 ## 프로젝트 소개
 
